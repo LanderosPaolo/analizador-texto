@@ -33,4 +33,3 @@ Este proyecto es una aplicación simple escrita en Python que permite a los usua
 5. Observa los resultados en la salida de la consola.
 
 Este proyecto es una excelente manera de practicar y aprender Python mientras realizas análisis simples de texto. Puedes personalizarlo y ampliar sus características según tus necesidades y habilidades en programación. ¡Diviértete explorando y analizando tus textos con este proyecto!
-
